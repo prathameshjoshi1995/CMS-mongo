@@ -69,7 +69,7 @@ npm run dev
 cd ../frontend
 npm run dev
 ```
-📂 Folder Structure
+## 📂 Folder Structure
 
 CMS-mongo/
 ├── backend/         # Node.js + Express API
@@ -80,9 +80,10 @@ CMS-mongo/
 
 
 ---
-📜 License
+## 📜 License
 
 If you replace your current README.md with this version and commit it, your GitHub repo will display all the badges and colorful logos.  
 
 Do you want me to also **add a folder structure diagram** generated automatically from your actual repo so it’s always accurate? That would make it even cooler.
+
 
