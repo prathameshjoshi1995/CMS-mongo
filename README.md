@@ -72,11 +72,11 @@ npm run dev
 ## 📂 Folder Structure
 
 CMS-mongo/
--├── backend/         # Node.js + Express API
--├── frontend/        # React + Vite app
--├── documents/       # Project documentation
--├── README.md
--└── start-servers.bat / .ps1
+├── backend/         # Node.js + Express API
+├── frontend/        # React + Vite app
+├── documents/       # Project documentation
+├── README.md
+└── start-servers.bat / .ps1
 
 
 ---
@@ -85,6 +85,7 @@ CMS-mongo/
 If you replace your current README.md with this version and commit it, your GitHub repo will display all the badges and colorful logos.  
 
 Do you want me to also **add a folder structure diagram** generated automatically from your actual repo so it’s always accurate? That would make it even cooler.
+
 
 
 
